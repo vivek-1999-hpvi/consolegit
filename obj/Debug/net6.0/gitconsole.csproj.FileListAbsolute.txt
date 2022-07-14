@@ -1,0 +1,15 @@
+F:\gitconsole\bin\Debug\net6.0\gitconsole.exe
+F:\gitconsole\bin\Debug\net6.0\gitconsole.deps.json
+F:\gitconsole\bin\Debug\net6.0\gitconsole.runtimeconfig.json
+F:\gitconsole\bin\Debug\net6.0\gitconsole.dll
+F:\gitconsole\bin\Debug\net6.0\gitconsole.pdb
+F:\gitconsole\obj\Debug\net6.0\gitconsole.csproj.AssemblyReference.cache
+F:\gitconsole\obj\Debug\net6.0\gitconsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitconsole\obj\Debug\net6.0\gitconsole.AssemblyInfoInputs.cache
+F:\gitconsole\obj\Debug\net6.0\gitconsole.AssemblyInfo.cs
+F:\gitconsole\obj\Debug\net6.0\gitconsole.csproj.CoreCompileInputs.cache
+F:\gitconsole\obj\Debug\net6.0\gitconsole.dll
+F:\gitconsole\obj\Debug\net6.0\refint\gitconsole.dll
+F:\gitconsole\obj\Debug\net6.0\gitconsole.pdb
+F:\gitconsole\obj\Debug\net6.0\gitconsole.genruntimeconfig.cache
+F:\gitconsole\obj\Debug\net6.0\ref\gitconsole.dll
